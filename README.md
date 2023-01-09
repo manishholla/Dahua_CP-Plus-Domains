@@ -1,7 +1,7 @@
 # Dahua_CP-Plus-Domains
-Hostnames that probably ping back your camera feed (if you use CP Plus or Dahua cameras) to vendor.
+Hostnames that probably ping back your CCTV feed (if you use CP Plus or Dahua cameras) to vendor.
 
-Add this to your router / network firewall to block traffic thereby blocking camera feed to vendor. This will not affect local network access to DVR / NVR portal and/or locally egressing camera feed.
+Add this to your router / network firewall to block traffic thereby blocking CCTV feed to vendor. This will not affect local network access to DVR / NVR portal and/or locally egressing camera feed.
 
 I will try to update this list whenever possible. You are free to modify this as per your requirement.
 
